@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
    <body>
       <h1>Our Products</h1>
-      <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+      <p style = "font-family:times new roman;font-size:10px;font-style:italic;">
          This is demo text
       </p>
    </body>
