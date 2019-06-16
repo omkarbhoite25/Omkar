@@ -3,7 +3,20 @@
 You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[<p><img src="GitHub-Mark-32px.png"/></p>] (https://omkarbhoite25.github.io/Omkar/)
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Font</title>
+   </head>
+
+   <body>
+      <h1>Our Products</h1>
+      <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+         This is demo text
+      </p>
+   </body>
+   
+</html>
 ### Markdown
 _Times new roman_
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
