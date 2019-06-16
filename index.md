@@ -1,10 +1,8 @@
 ## WELCOME TO MY WORLD
 
 You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-<!DOCTYPE html>
-<html>
-   
 
+<html>
    <body>
       <h1>Our Products</h1>
       <p style="font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
