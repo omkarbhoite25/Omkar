@@ -3,9 +3,7 @@
 You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 <!DOCTYPE html>
 <html>
-   <head>
-      <title>HTML Font</title>
-   </head>
+   
 
    <body>
       <h1>Our Products</h1>
@@ -13,7 +11,7 @@ You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/m
          This is demo text
       </p>
   
-  <p style="font-family :times new roman;font-size:15px>"Hello !!! everyone I'm Omkar and I am a Instrumentation & Control Engineer. Let's explore my world of engineering. </p>
+  <p style="font-family :times new roman;font-size:15px;">Hello !!! everyone I'm Omkar and I am a Instrumentation & Control Engineer. Let's explore my world of engineering. </p>
    </body>
 </html>
 
