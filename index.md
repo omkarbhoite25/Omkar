@@ -1,22 +1,9 @@
-## _WELCOME TO MY WORLD OF ENGINEERING_
+## WELCOME TO MY WORLD
 
 You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML Font</title>
-   </head>
+<p style="font-family :times new roman;font-size:15px>"Hello !!! everyone I'm Omkar and I am a Instrumentation & Control Engineer. Let's explore my world of engineering. </p>
 
-   <body>
-      <h1>Our Products</h1>
-      <p style = "font-family:times new roman;font-size:10px;font-style:italic;">
-         This is demo text jfvhbwejgrb j2b
-      </p>
-   </body>
-   
-</html>
 ### Markdown
 _Times new roman_
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
