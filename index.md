@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-<html><p style="font-family :times new roman;font-size:15px>"Hello !!! everyone I'm Omkar and I am a Instrumentation & Control Engineer. Let's explore my world of engineering. </p></html>
+<html>
+  <body><p style="font-family :times new roman;font-size:15px>"Hello !!! everyone I'm Omkar and I am a Instrumentation & Control Engineer. Let's explore my world of engineering. </p>
+    </body></html>
 
 ### Markdown
 _Times new roman_
