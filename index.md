@@ -1,6 +1,6 @@
 ## Welcome 
 
-### Research <br/> Projects & Seminars <br/>  Publications
+### [Research](r.md) <br/> [Projects & Seminars](pro.md) <br/>  [Publications](p.md)
 
 ### Markdown
 
