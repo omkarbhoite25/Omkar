@@ -1,1 +1,1 @@
-<embed src="template_Moderncv.pdf" >
+[Resume](https://github.com/omkarbhoite25/Omkar/raw/master/template_Moderncv.pdf)
