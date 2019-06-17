@@ -1,8 +1,6 @@
 ## Welcome 
 
-#### Research
-### Projects & Seminars
-### Publications
+### Research <br/> Projects & Seminars <br/>  Publications
 
 ### Markdown
 
