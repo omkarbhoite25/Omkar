@@ -5,5 +5,5 @@
 ### Hello World !!!
 My name is Omkar Bhoite and I'm undergrad of _PUNE UNIVERSITY_(_College: AISSMS's Institute of Information Technology_) and completed (_Jun '19_) my bachelor's in Instrumentation & Control Engineering. 
 
-<img src="College.png" width="500" height="1000">
-<img src="Univ_New_Logo.jpg" width="500" height="1000">
+<img src="College.png" width="500" height="200">
+<img src="Univ_New_Logo.jpg" width="500" height="200">
