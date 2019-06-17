@@ -1,2 +1,2 @@
-[Design and development of an automatic testing equipment for a Switch
+## [Design and development of an automatic testing equipment for a Switch
 	Mode Power Supply (SMPS) and its analysis and data acquisition using LabVIEW](http://www.jetir.org/view?paper=JETIR1905Q53.)
