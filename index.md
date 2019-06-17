@@ -1,7 +1,7 @@
 # _WELCOME TO MY WORLD_
 
 Hi !!! I'm a undergard of PUNE UNIVERSITY and completed my Bachelor's in Instrumentation & Control Engineeing.
-image: 1.png
+<img src="1.png">
 You can explore my work **here**.
 
 ## Projects
