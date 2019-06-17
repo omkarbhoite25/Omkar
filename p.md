@@ -1,1 +1,2 @@
-<href ="template_Moderncv.pdf">
+<object data="template_Moderncv.pdf">
+  </object>
