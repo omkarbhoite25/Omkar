@@ -1,5 +1,5 @@
 ## Welcome 
-![](Shivaji-Maharaj.jpg= 250*250)
+![](Shivaji-Maharaj.jpg =250*250)
 
 ### Markdown
 
