@@ -1,5 +1,6 @@
 ## Welcome 
-![](Shivaji-Maharaj.jpg =250*250)
+
+#### Research          Projects & Seminar       
 
 ### Markdown
 
