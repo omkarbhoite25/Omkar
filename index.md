@@ -1,6 +1,13 @@
-## WELCOME TO MY WORLD
+_WELCOME TO MY WORLD_
 
-You can use the [editor on GitHub](https://github.com/omkarbhoite25/Omkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi !!! I'm a undergard of PUNE UNIVERSITY and completed my Bachelor's in Instrumentation & Control Engineeing.
+
+You can explore my work **here**.
+
+# Projects
+1.Designing and study of Quadcopter.
+2.Programmable DC Load.
+
 
 
     
