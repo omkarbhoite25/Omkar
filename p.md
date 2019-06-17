@@ -1,2 +1,1 @@
-<html><object data="template_Moderncv.pdf">
-</object></html>
+<embed src="template_Moderncv.pdf" >
