@@ -3,7 +3,7 @@
 Hi !!! I'm a undergard of PUNE UNIVERSITY and completed my Bachelor's in Instrumentation & Control Engineeing.
 <img src="1.png">
 You can explore my work **here**.
-![](1.png=250*250)
+![](1.png=2500*2500)
 ## Projects
 <li>Designing and study of Quadcopter.</li>
 <li>Programmable DC Load.</li>
