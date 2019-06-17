@@ -1,5 +1,5 @@
 # PROJECTS
-## _[Automated testing equipment for an switch mode power supply (SMPS) & its analysis and 	data acquisition using LabVIEW.](Testing Equipment.pdf)_
+## [_Automated testing equipment for an switch mode power supply (SMPS) & its analysis and 	data acquisition using LabVIEW._](Testing Equipment.pdf)
 
 ## _Quadcopter Designing and study of YPR parameters of drone and it's implementation to have a controlled positioning of the drone in 3-D Space_
 
