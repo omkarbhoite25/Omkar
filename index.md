@@ -5,8 +5,8 @@ Hi !!! I'm a undergard of PUNE UNIVERSITY and completed my Bachelor's in Instrum
 You can explore my work **here**.
 
 ## Projects
-<li>1.Designing and study of Quadcopter.</li>
-<li>2.Programmable DC Load.</li>
+<li>Designing and study of Quadcopter.</li>
+<li>Programmable DC Load.</li>
 
 
 
