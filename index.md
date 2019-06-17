@@ -9,4 +9,4 @@ You're about to explore my world of _Engineering_ and _Science_.
 
 
 
-<img src="College.png" width="300" height="100">      <img src="Univ_New_Logo.jpg" width="200" height="200">
+<img src="College.png" width="150" height="50">      <img src="Univ_New_Logo.jpg" width="100" height="100">
