@@ -1,8 +1,8 @@
 # Welcome to me Webpage
 
-<li>[Research](r.md)</li> 
- <li>[Projects & Seminars](pro.md) </li>
- <li>[Publications](p.md)</li>
+### [Research](r.md) 
+ ### [Projects & Seminars](pro.md) 
+### [Publications](p.md)
 
 ### Markdown
 
