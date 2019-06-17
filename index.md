@@ -1,12 +1,12 @@
-_WELCOME TO MY WORLD_
+# _WELCOME TO MY WORLD_
 
 Hi !!! I'm a undergard of PUNE UNIVERSITY and completed my Bachelor's in Instrumentation & Control Engineeing.
 
 You can explore my work **here**.
 
-# Projects
-1.Designing and study of Quadcopter.
-2.Programmable DC Load.
+## Projects
+<li>1.Designing and study of Quadcopter.</li>
+<li>2.Programmable DC Load.</li>
 
 
 
