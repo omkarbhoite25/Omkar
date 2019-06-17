@@ -7,6 +7,6 @@
 
 ## _Designing of regulated power supply using IC 7805 \& IC 7905._
 
-# SEMINAR
+# SEMINARS
 
 ## _Quantum computer_
