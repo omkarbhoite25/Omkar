@@ -3,7 +3,7 @@
 Hi !!! I'm a undergard of PUNE UNIVERSITY and completed my Bachelor's in Instrumentation & Control Engineeing.
 
 You can explore my work **here**.
-[![](1.png)](omkarbhoite25.github.io/Omkar/)
+[![](1.png)](https://omkarbhoite25.github.io/Omkar/)
 ## Projects
 <li>Designing and study of Quadcopter.</li>
 <li>Programmable DC Load.</li>
