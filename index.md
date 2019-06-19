@@ -1,7 +1,7 @@
 # स्वागतम् 
 
 ### Hello everyone !!!
-My name is Omkar Bhoite and I'm undergrad of _PUNE UNIVERSITY_ ( _College: AISSMS's Institute of Information Technology_ ) and completed ( _2019_ ) my bachelor's in **Instrumentation & Control Engineering**. 
+My name is Omkar Bhoite and I'm undergrad of _PUNE UNIVERSITY_ ( _College: AISSMS's Institute of Information Technology_ ) and going to pursue my bachelor's in **Instrumentation & Control Engineering**. ( _2019_ ) 
 
 You're about to explore my world of _Engineering_ and _Science_.
 
