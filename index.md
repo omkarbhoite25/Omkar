@@ -5,7 +5,7 @@ My name is Omkar Bhoite and I'm undergrad of _PUNE UNIVERSITY_ ( _College: AISSM
 
 You're about to explore my world of _Engineering_ and _Science_.
 
-### [Research](r.md) <br/> [Projects & Seminars](pro.md) <br/> [Publications](p.md)  <br/>  [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) 
+### [Research](r.md) <br/> [Projects & Seminars](pro.md) <br/> [Publications](p.md)  <br/>  [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf)
 
 
 
