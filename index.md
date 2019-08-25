@@ -1,5 +1,5 @@
 <body style="background-color:powderred;"> 
-<font size="50" style="font-family:courier;">OMKAR BHOITE </font> 
+<font size="50" style="font-family:courier;">OMKAR BHOITE </font> </br>
 #### I'm undergrad of _PUNE UNIVERSITY_ ( _College: AISSMS's Institute of Information Technology_ ) and recently completed my bachelor's in **Instrumentation & Control Engineering**( _2019_ ) 
 
 
