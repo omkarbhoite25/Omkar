@@ -1,5 +1,5 @@
 <body style="background-color:powderblue;"> 
-<font size="50" style="font-family:courier;">OMKAR BHOITE </font> </br>
+<font size="50" style="font-family:courier;">OMKAR BHOITE </font> 
 </body>
 
 
