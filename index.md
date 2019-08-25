@@ -1,4 +1,4 @@
-<body style="background-color:cyan;" background="Shivaji-Maharaj.jpg"  width="1000" height="1000"> 
+<body style="background-color:cyan;" background="Shivaji-Maharaj.jpg"  width="100%" height="100%"> 
 <font size="50" style="font-family:courier;">OMKAR BHOITE qhhbfvuwebvnw </font> 
 
 </body> <br>
