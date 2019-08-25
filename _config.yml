@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: <font size="3" style="font-family:Comic Sans MS;" color="Black"> <marquee behavior="alternate" scrollamount="5">Physics</marquee> <br> <marquee behavior="alternate" scrollamount="6">Mathematics</marquee> <br> <marquee behavior="alternate" scrollamount="7">Engineering</marquee> <br> <marquee behavior="alternate" scrollamount="8">Robotics</marquee></font>
+title: <font size="3" style="font-family:Comic Sans MS;" color="Magenta"> <marquee behavior="alternate" scrollamount="5">Physics</marquee> <br> <marquee behavior="alternate" scrollamount="6">Mathematics</marquee> <br> <marquee behavior="alternate" scrollamount="7">Engineering</marquee> <br> <marquee behavior="alternate" scrollamount="8">Robotics</marquee></font>
 link-col: "#FFFFFF"
 hover-col: "#FFFFFF"
 footer-col: "#FFFFFF"
