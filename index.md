@@ -1,5 +1,5 @@
 
-<font size="24">OMKAR BHOITE</font> <br/> I'm undergrad of _PUNE UNIVERSITY_ ( _College: AISSMS's Institute of Information Technology_ ) and recently completed my bachelor's in **Instrumentation & Control Engineering**( _2019_ ) 
+<font size="50">## OMKAR BHOITE ##</font> <br/> I'm undergrad of _PUNE UNIVERSITY_ ( _College: AISSMS's Institute of Information Technology_ ) and recently completed my bachelor's in **Instrumentation & Control Engineering**( _2019_ ) 
 
 You're about to explore my world of _Engineering_ and _Science_.
 
