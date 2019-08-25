@@ -9,7 +9,7 @@
 
  <font size="3" style="font-family:roman;" color="Black"> Let's take adive into my world of Engineering and Science.</font> <br>
 
-###  [Research](r.md) <br> &ensp; [Projects & Seminars](pro.md)<br> &emsp; [Publications](p.md) <br> &emsp; &ensp;  [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) <br><br>
+### [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) <br> &ensp; [Research](r.md)  <br> &emsp; [Publications](p.md) <br> &emsp; &ensp; [Projects & Seminars](pro.md)  <br><br>
 
 
 
