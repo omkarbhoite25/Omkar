@@ -1,6 +1,6 @@
-<body style="background-color:powderblue;"> 
+<body style="background-color:powderblue;" background-image: url("Shivaji-Maharaj.jpg");> 
 <font size="50" style="font-family:courier;">OMKAR BHOITE </font> 
- body {background-image: url("Shivaji-Maharaj.jpg");}
+
 </body>
 
 
