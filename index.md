@@ -1,7 +1,9 @@
-<body style="background-color:Lime;" > 
+<body> 
 <font size="50" style="font-family:courier;">OMKAR BHOITE </font> 
 
-</body> <br>
+</body> 
+
+<br>
 
 
  <font size="3" style="font-family:roman;" color="OrangeRed"> I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
