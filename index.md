@@ -3,7 +3,15 @@
 
 You're about to explore my world of _Engineering_ and _Science_.
 
-<pre class="tab">[Research](r.md)  [Projects & Seminars](pro.md)  [Publications](p.md)   [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf)<pre>
+<pre class="tab"> [Research](r.md)  [Projects & Seminars](pro.md)  [Publications](p.md)   [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) <pre>
+
+
+
+
+
+
+
+
 
 
 
