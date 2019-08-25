@@ -1,7 +1,12 @@
 theme: jekyll-theme-minimal
-title: Omkar_Bhoite
+title: 
 link-col: "#FFFFFF"
 hover-col: "#FFFFFF"
 footer-col: "#FFFFFF"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
+social-network-links:
+  rss: true
+  email: "omkarbhoite2013@gmail.com"
+  share-links-active:
+  email: true
