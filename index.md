@@ -11,7 +11,7 @@
 
  <font size="3" style="font-family:roman;" color="Black"> Ready to explore my world of Engineering and Science.</font> <br>
 
-###  [Research](r.md) <br> &ensp; [Projects & Seminars](pro.md)<br> &ensp; [Publications](p.md) <br> &ensp;  [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) <br><br>
+###  [Research](r.md) <br> &ensp; [Projects & Seminars](pro.md)<br> &emsp; [Publications](p.md) <br> &ensp;  [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) <br><br>
 
 
 
