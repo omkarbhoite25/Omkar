@@ -1,12 +1,8 @@
 theme: jekyll-theme-minimal
-title: 
+title: <font size="3" style="font-family:Comic Sans MS;" color="Black"> Physics Mathematics Engineering Robotics </font>
 link-col: "#FFFFFF"
 hover-col: "#FFFFFF"
 footer-col: "#FFFFFF"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
-social-network-links:
-  rss: true
-  email: "omkarbhoite2013@gmail.com"
-  share-links-active:
-  email: true
+email: omkarbhoite2013@gmail.com
