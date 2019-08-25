@@ -1,4 +1,4 @@
-<body bgcolor="MistyRose"> 
+<body style="background-color:"MistyRose;"> 
 <font size="50" style="font-family:courier;" color="Black">OMKAR BHOITE </font> 
 </body> 
 <br>
