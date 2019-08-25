@@ -80,3 +80,5 @@ share-links-active:
   facebook: false
   linkedin: false
 
+
+theme: jekyll-theme-minimal
