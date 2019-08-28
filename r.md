@@ -1,11 +1,7 @@
-## _FABRICATION OF MICROPILLARS AND STUDY OF POLARITON LASER._
-Learned Photolithographic technique using LW405 laser writer and created micropillars to to study the
-	enhancement of the DBR reflectivity for the given Braggs wavelength. Build MATLAB simulations for generating graphs for reflectivity vs wavelength for
-	DBR and studied how the DBR reflectivity changes as the function of refractive index of the dielectric medium, insertion of spacer between DBR, multi-layer
-	DBR, and multi-layer DBR with spacer. 
+## _FABRICATION OF MICROPILLARS AND STUDY OF DBR AND EXCITON-POLARITON LASER._
+With the state-of-the-art technology of LW405B laser writer for photolithography I fabricated different structure of copper like disc & pillars of varying dimensions. Modified the MATLAB code meant for two layer DBR into a generalised code for "n" number of layers DBR, also coded the program for DBR with spacer in it, for studying microcavity and stop-band formationin for different Bragg's wavelength and layers of dielectric with different refractive index. Studied exciton-polariton laser, its woking principle and how it produces coherent light without population inversion like convential lasers.  
 ##### _Indian Institute of Science Education and Research (IISER),Pune, Maharashtra, India._ <br/>**Guide & Adviser** : _Dr. Datta Shouvik_
 ## _BUILDING GIGAHERTZ TRANSIMPEDANCE AMPLIFIER FOR LOW TEMPERATURE RF AMPLIFICATION AND SHOT NOISE MEASUREMENT._
   Developed a technique to build a
-	miniature size printed circuit board for implementing the transimpedance amplifier circuit and also studied how to troubleshoot the difficulties like EMI, PCB
-	board capacitance and cryostat effect that hamper the operation of the amplifier for measuring the signal in RF region and signal amplification.
+	miniature size printed circuit board for implementing the TIA circuit and also studied how to troubleshoot the problems like EMI, parasitic capacitance etc.., that hamper's the operation of the amplifier for measuring the signal in RF region and also signal amplification. Analyzed commercially available TIA for its charateristics specified by manufacturer and whether it actually behave as specfied. 
 ##### _Indian Institute of Science Education and Research (IISER),Pune, Maharashtra, India._ <br/> **Guide & Adviser** : _Dr. Datta Shouvik_
