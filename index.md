@@ -9,7 +9,7 @@
 
 <font size="3" style="font-family:Comic Sans MS;" color="Black"> Let's take a dive into my world of Engineering and Science.</font> <br>
 
-### [CV](https://github.com/omkarbhoite25/Omkar/raw/master/Omkar_CV.pdf) <br> &ensp; [Research](r.md)  <br> &emsp; [Publications](p.md) <br> &emsp; &ensp; [Projects & Seminars](pro.md) <br><br>
+### [CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) <br> &ensp; [Research](r.md)  <br> &emsp; [Publications](p.md) <br> &emsp; &ensp; [Projects & Seminars](pro.md) <br><br>
 
 
 
