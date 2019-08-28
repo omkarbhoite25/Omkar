@@ -1,3 +1,6 @@
+<body style="background-color:LightSkyBlue;"> 
+  </body>
+
 # PROJECTS
 ## [_Automated testing equipment for an switch mode power supply (SMPS) & its analysis and 	data acquisition using LabVIEW._](https://github.com/omkarbhoite25/Doc/raw/master/Testing%20Equipment%20%20.pdf)
 
