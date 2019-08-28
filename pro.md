@@ -9,4 +9,7 @@
 
 # SEMINARS
 
-## [_Quantum computer_](https://github.com/omkarbhoite25/Omkar/raw/master/Quantum%20Computer.pdf)
+## [_Quantum computer_](https://github.com/omkarbhoite25/Omkar/raw/master/Quantum%20Computer.pdf)<br>
+
+
+[<sup>*</sup> Documents will be uploaded soon]
