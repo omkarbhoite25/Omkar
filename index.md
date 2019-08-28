@@ -9,7 +9,7 @@
 
 <font size="3" style="font-family:Comic Sans MS;" color="Black"> Let's take a dive into my world of Engineering and Science.</font> <br>
 
-### [CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Github](https://github.com/omkarbhoite25)   <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](r.md) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;  [Publications](p.md) <br> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Projects & Seminars](pro.md)  
+### &emsp;&emsp;&emsp;&emsp;&emsp;[CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Github](https://github.com/omkarbhoite25)   <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Research](r.md) &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;  [Publications](p.md) <br> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Projects & Seminars](pro.md)  
 
 
 
