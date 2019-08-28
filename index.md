@@ -23,5 +23,3 @@
 
 
 
-**[WEBPAGE UNDER CONSTRUCTION.]**
-
