@@ -3,7 +3,7 @@
 
 ## _Quadcopter Designing and study of YPR parameters of drone and it's implementation to have a controlled positioning of the drone in 3-D Space<sup>*</sup>_
 
-## _Object counter circuit using IC 4026 CMOS Decade Counter/ Divider.<sup>*</sup>_
+## [_Object counter circuit using IC 4026 CMOS Decade Counter/ Divider._](https://github.com/omkarbhoite25/Doc/raw/master/RWTH.pdf)
 
 ## _Designing of regulated power supply using IC 7805 \& IC 7905.<sup>*</sup>_
 
