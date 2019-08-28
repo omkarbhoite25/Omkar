@@ -1,4 +1,4 @@
-<body style="background-color:LightSkyBlue;"> 
+<body style="background-color:Aqua;"> 
   </body>
 
 # PROJECTS
