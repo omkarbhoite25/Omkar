@@ -20,7 +20,7 @@
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
-title: <font size="3" style="font-family:Comic Sans MS;" color="Black"> <marquee behavior="alternate" scrollamount="10">Physics</marquee> <br> <marquee behavior="alternate" scrollamount="12">Mathematics</marquee> <br> <marquee behavior="alternate" scrollamount="14">Engineering</marquee> <br> <marquee behavior="alternate" scrollamount="16">Robotics</marquee><br><div class="typewriter"> <h1>The cat and the hat.</h1></div></font>
+title: <font size="3" style="font-family:Comic Sans MS;" color="Black"> <marquee behavior="alternate" scrollamount="10">Physics</marquee> <br> <marquee behavior="alternate" scrollamount="12">Mathematics</marquee> <br> <marquee behavior="alternate" scrollamount="14">Engineering</marquee> <br> <marquee behavior="alternate" scrollamount="16">Robotics</marquee><br><div class="typewriter"> <h1>The cat .</h1></div></font>
 link-col: "#FFFFFF"
 hover-col: "#FFFFFF"
 footer-col: "#FFFFFF"
