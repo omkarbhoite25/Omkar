@@ -1,7 +1,7 @@
 <body style="background-color:Chartreuse;"> 
   </body>
 
-## _FABRICATION OF MICROPILLARS AND STUDY OF DBR AND EXCITON-POLARITON LASER._
+## _FABRICATION OF MICROPILLARS AND STUDY OF DISTRIBUTED BRAGG REFLECTORS TOWARDS EXCITON-POLARITON._
 <font style="font-family:Comic Sans MS;" color="Black"> With the state-of-the-art technology of LW405B laser writer for photolithography I fabricated different structure of copper like disc & pillars of varying dimensions. Modified the MATLAB code meant for two layer DBR into a generalised code for "n" number of layers DBR, also coded the program for DBR with spacer in it, for studying microcavity and stop-band formation for different Bragg's wavelength and layers of dielectric with different refractive index. Studied exciton-polariton laser, its woking principle and how it produces coherent light without population inversion like convential lasers. </font> 
 ##### _Indian Institute of Science Education and Research (IISER),Pune, Maharashtra, India._ <br/>**Guide & Adviser** : [_Dr. Datta Shouvik_](http://www.iiserpune.ac.in/people/faculty-details/19)
 ## _BUILDING GIGAHERTZ TRANSIMPEDANCE AMPLIFIER FOR LOW TEMPERATURE RF AMPLIFICATION AND SHOT NOISE MEASUREMENT._
