@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-  position: 0 auto;
-  max-width: 0 auto;
+  position: relative;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
