@@ -54,7 +54,7 @@ body, html {
 <div class="bg-text">
   <h2>Blurred Background</h2>
   <h1 style="font-size:50px">I am John Doe</h1>
-  <p>And I'm</p>
+  <p>And I</p>
 </div>
 
 </body>
