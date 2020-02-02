@@ -2,6 +2,11 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 * {
   box-sizing: border-box;
 }
@@ -55,5 +60,9 @@ body {
 
 
 
-
+<font size="50" style="font-family:courier;" color="Black">OMKAR BHOITE </font> 
+ <br>
+<font size="3" style="font-family:Comic Sans MS;" color="Black"> I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
+<font size="3" style="font-family:Comic Sans MS;" color="Black"> Let's take a dive into my world of Engineering and Science.</font> <br>
+ 
 
