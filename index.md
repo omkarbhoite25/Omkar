@@ -38,11 +38,7 @@ body {
   <img src="Space.jpeg" alt="Notebook" style="width:100%;">
   <div class="content">
     <h1>Heading</h1>
-    <font size="50" style="font-family:courier;" color="Black">OMKAR BHOITE </font> 
- <br>
-<font size="3" style="font-family:Comic Sans MS;" color="Black"> I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
-<font size="3" style="font-family:Comic Sans MS;" color="Black"> Let's take a dive into my world of Engineering and Science.</font> <br>
-  </div>
+     </div>
 </div>
 </body>
 </html>
