@@ -1,52 +1,61 @@
 <html>
 <head>
-<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 * {
   box-sizing: border-box;
 }
 
-body {
-  font-family: Arial;
-  font-size: 17px;
+.bg-image {
+  /* The image used */
+  background-image: url("Space.jpeg");
+  
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+  height: 100%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.container {
-  position: relative;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.container img {vertical-align: middle;}
-
-.container .content {
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
   position: absolute;
-  bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1;
-  width: 100%;
-  padding: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
 }
 </style>
 </head>
 <body>
 
-<div class="container">
-  <img src="Space.jpeg" alt="Notebook" style="width:100%;">
-  <div class="content">
-    <p><font size="50" style="font-family:courier;" >OMKAR BHOITE </font> 
- <br>
-<font size="3" style="font-family:Comic Sans MS;" > I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
-<font size="3" style="font-family:Comic Sans MS;" > Let's take a dive into my world of Engineering and Science.</font> <br></p>
-    
-  </div>
+<div class="bg-image"></div>
+
+<div class="bg-text">
+  <h2>Blurred Background</h2>
+  <h1 style="font-size:50px">I am John Doe</h1>
+  <p>And I'm a Photographer</p>
 </div>
-    <nav font size="8" style="font-family:Comic Sans MS;">
- <pre class="tab"> 
-                   <b><a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf" class="w3-button w3-bar-item">CV</a>   <a href="r.md" class="w3-button w3-bar-item">Research</a>   <a href="p.md" class="w3-button w3-bar-item">Publications</a>  <a href="pro.md" class="w3-button w3-bar-item">Projects & Seminars</a>  <a href="https://github.com/omkarbhoite25" class="w3-button w3-bar-item">Github</a>  <a href="https://twitter.com/Omkar64737805" class="w3-button w3-bar-item">Twitter</a>  <a href="https://youtu.be/Oq8lbSNIXAg" class="w3-button w3-bar-item">Youtube Channel</a></b>
-  </pre>
-</nav>
+
 </body>
 </html>
