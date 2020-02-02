@@ -1,8 +1,11 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <body style="background-color:White;"> 
 <font size="50" style="font-family:courier;" color="Black">OMKAR BHOITE </font> 
 </body> 
+</html>
 <br>
 
 
