@@ -35,7 +35,7 @@ body {
 <div class="container">
   <img src="Space.jpeg" alt="Notebook" style="width:100%;">
   <div class="content">
-    <p><font size="50" style="font-family:courier;" color="Black">OMKAR BHOITE </font> 
+    <p><font size="50" style="font-family:courier;" >OMKAR BHOITE </font> 
  <br>
 <font size="3" style="font-family:Comic Sans MS;" > I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
 <font size="3" style="font-family:Comic Sans MS;" > Let's take a dive into my world of Engineering and Science.</font> <br></p>
