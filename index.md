@@ -13,8 +13,7 @@ body, html {
 }
 
 .bg-image {
-  /* The image used */
-  background-image: Space.jpeg;
+   <img src="/w3images/notebook.jpg" alt="Notebook" style="width:100%;">
   
   /* Add the blur effect */
   filter: blur(8px);
