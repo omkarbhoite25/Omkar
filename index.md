@@ -17,9 +17,9 @@
   <a href="r.md" class="w3-button w3-bar-item">Research</a>
   <a href="p.md" class="w3-button w3-bar-item">Publications</a>
   <a href="pro.md" class="w3-button w3-bar-item">Projects & Seminars</a>
-  <a herf="https://github.com/omkarbhoite25" class="w3-button w3-bar-item">Github</a>
+  <a href="https://github.com/omkarbhoite25" class="w3-button w3-bar-item">Github</a>
   <a herf="https://twitter.com/Omkar64737805" class="w3-button w3-bar-item">Twitter</a>
-  <a herf="https://youtu.be/Oq8lbSNIXAg" class="w3-button w3-bar-item">Youtube Channel</a>  
+  <a href="https://youtu.be/Oq8lbSNIXAg" class="w3-button w3-bar-item">Youtube Channel</a>  
 </nav>
 
 
