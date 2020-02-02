@@ -8,10 +8,10 @@
 <br>
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
-  <a href="#home" class="w3-button w3-bar-item">Home</a>
-  <a href="#band" class="w3-button w3-bar-item">Band</a>
-  <a href="#tour" class="w3-button w3-bar-item">Tour</a>
-  <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+  <a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf" class="w3-button w3-bar-item">CV</a>
+  <a href="r.md" class="w3-button w3-bar-item">Research</a>
+  <a href="p.md" class="w3-button w3-bar-item">Publications</a>
+  <a href="pro.md" class="w3-button w3-bar-item">Contact</a>
 </nav>
 
  <font size="3" style="font-family:Comic Sans MS;" color="Black"> I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
@@ -19,7 +19,7 @@
 
 <font size="3" style="font-family:Comic Sans MS;" color="Black"> Let's take a dive into my world of Engineering and Science.</font> <br>
 
-### &emsp;[CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) &emsp;[Github](https://github.com/omkarbhoite25)  &emsp; [Twitter](https://twitter.com/Omkar64737805)  &emsp; [Research](r.md) &emsp; [Publications](p.md)  &emsp; [Projects & Seminars](pro.md)  &emsp; [YouTube Channel](https://youtu.be/Oq8lbSNIXAg)
+### &emsp;[CV] &emsp;[Github](https://github.com/omkarbhoite25)  &emsp; [Twitter](https://twitter.com/Omkar64737805)  &emsp; [Research]() &emsp; [Publications]()  &emsp; [Projects & Seminars](pro.md)  &emsp; [YouTube Channel](https://youtu.be/Oq8lbSNIXAg)
 
 
 
