@@ -39,13 +39,17 @@ body {
     <p><font size="50" style="font-family:courier;" >OMKAR BHOITE </font> 
  <br>
 <font size="3" style="font-family:Comic Sans MS;" > I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
-<font size="3" style="font-family:Comic Sans MS;" > Let's take a dive into my world of Engineering and Science.</font> <br></p>
-  </div>
-</div>
-<nav font size="8" style="font-family:Comic Sans MS;">
+<font size="3" style="font-family:Comic Sans MS;" > Let's take a dive into my world of Engineering and Science.</font> <br>
+    
+    <nav font size="8" style="font-family:Comic Sans MS;">
  <pre class="tab"> 
                    <b><a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf" class="w3-button w3-bar-item">CV</a>   <a href="r.md" class="w3-button w3-bar-item">Research</a>   <a href="p.md" class="w3-button w3-bar-item">Publications</a>  <a href="pro.md" class="w3-button w3-bar-item">Projects & Seminars</a>  <a href="https://github.com/omkarbhoite25" class="w3-button w3-bar-item">Github</a>  <a href="https://twitter.com/Omkar64737805" class="w3-button w3-bar-item">Twitter</a>  <a href="https://youtu.be/Oq8lbSNIXAg" class="w3-button w3-bar-item">Youtube Channel</a></b>
   </pre>
 </nav>
+
+</p>
+  </div>
+</div>
+
 </body>
 </html>
