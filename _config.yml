@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title: <font size="3" style="font-family:Comic Sans MS;" color="Black"> <marquee behavior="alternate" scrollamount="10">Physics</marquee> <br> <marquee behavior="alternate" scrollamount="12">Mathematics</marquee> <br> <marquee behavior="alternate" scrollamount="14">Engineering</marquee> <br> <marquee behavior="alternate" scrollamount="16">Robotics</marquee></font>
+link-col: "#FFFFFF"
+hover-col: "#FFFFFF"
+footer-col: "#FFFFFF"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
+email: "omkarbhoite2013@gmail.com"
