@@ -14,7 +14,7 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: "Space.jpeg";
+  background-image: src="Space.jpeg";
   
   /* Add the blur effect */
   filter: blur(8px);
@@ -54,7 +54,7 @@ body, html {
 <div class="bg-text">
   <h2>Blurred Background</h2>
   <h1 style="font-size:50px">I am John Doe</h1>
-  <p>And I'm a Photographer</p>
+  <p>And I'm</p>
 </div>
 
 </body>
