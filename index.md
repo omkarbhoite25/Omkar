@@ -13,7 +13,7 @@ body, html {
 }
 
 .bg-image {
-   <img src="Space.jpg">
+   background-image: <img src="Space.jpeg">
   
   /* Add the blur effect */
   filter: blur(8px);
