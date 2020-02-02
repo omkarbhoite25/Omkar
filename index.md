@@ -13,13 +13,13 @@ body, html {
 }
 
 .bg-image {
-   background-image: url("Space.jpeg");
+   background-image: <src="Space.jpeg">;
   
   /* Add the blur effect */
   filter: blur(8px);
   -webkit-filter: blur(8px);
   
-  /* Full height */
+  /* Full height */   
   height: 100%; 
   
   /* Center and scale the image nicely */
