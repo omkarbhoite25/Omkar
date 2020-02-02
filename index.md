@@ -23,6 +23,13 @@
 </body> 
 </html>
 
+<div class="container">
+  <img src="space.jpeg" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h1>Heading</h1>
+    <p>Lorem ipsum..</p>
+  </div>
+</div>
 
 
 
