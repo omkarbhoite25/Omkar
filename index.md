@@ -7,7 +7,7 @@
 </html>
 <br>
 
-<font size="3" style="font-family:Comic Sans MS;" color="Black" style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;"> I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
+<font size="3" style="font-family:Comic Sans MS;" color="Black"> I'm undergrad of PUNE UNIVERSITY ( College: AISSMS's Institute of Information Technology ) and recently completed my bachelor's in Instrumentation & Control Engineering ( 2019 ). </font> <br>
 
 
 <font size="3" style="font-family:Comic Sans MS;" color="Black"> Let's take a dive into my world of Engineering and Science.</font> <br>
