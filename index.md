@@ -10,7 +10,7 @@
 
 
 
- [CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) 
-         [Research](r.md)  [Publications](p.md) [Projects & Seminars](pro.md) [Github](https://github.com/omkarbhoite25) [Twitter](https://twitter.com/Omkar64737805) [Youtube Channel](https://youtu.be/Oq8lbSNIXAg) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) &emsp;
+         [Research](r.md) &emsp; [Publications](p.md)&emsp; [Projects & Seminars](pro.md)&emsp; [Github](https://github.com/omkarbhoite25) &emsp;[Twitter](https://twitter.com/Omkar64737805) &emsp;[Youtube Channel](https://youtu.be/Oq8lbSNIXAg) &emsp;
          
   
