@@ -32,8 +32,6 @@ body {
 </head>
 <body>
 
-<h2>Responsive Image with Transparent Text</h2>
-
 <div class="container">
   <img src="Space.jpeg" alt="Notebook" style="width:100%;">
   <div class="content">
