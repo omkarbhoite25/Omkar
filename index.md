@@ -10,13 +10,17 @@
 
 <div>
 <p>  
+  
+  [https://github.com/omkarbhoite25/Doc/raw/master/r.md](#Rsearch)
+  
 <a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf">CV</a> &emsp; 
-<a herf="https://github.com/omkarbhoite25/Doc/raw/master/r.md">Reserach</a>&emsp; 
-  <a href="https://github.com/omkarbhoite25/Doc/raw/master/p.mdf">Publications</a>&emsp; 
+<a name="Research"></a>&emsp; 
+  <a href="https://github.com/omkarbhoite25/Doc/raw/master/p.md">Publications</a>&emsp; 
   <a href="https://github.com/omkarbhoite25/Doc/raw/master/pro.md">Projects & Seminars</a>&emsp; 
   <a href="https://twitter.com/Omkar64737805">Twitter</a>&emsp; 
   <a href="https://github.com/omkarbhoite25">Github</a>&emsp; 
   <a href="https://youtu.be/Oq8lbSNIXA">Youtube Channel</a>&emsp; 
   <a href="https://github.com/omkarbhoite25/Doc/raw/master/g.md">Gallery</a>
+
 </p>
 </div> 
