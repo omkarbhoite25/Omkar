@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +8,7 @@
 
 body {
   margin: 0;
-  font-family: Arial;
+  font-family: Comic Sans MS;
 }
 
 /* The grid: Four equal columns that floats next to each other */
@@ -65,8 +64,8 @@ body {
 <body>
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
-  <p>Click on the images below:</p>
+  <h2>Gallery</h2>
+  <p>Click the image to expand.</p>
 </div>
 
 <!-- The four columns -->
@@ -82,6 +81,24 @@ body {
   </div>
   <div class="column">
     <img src="IMG_20190619_154417.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+  </div>
+   <div class="column">
+    <img src="IMG_20190619_154350.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="IMG_20190619_174217.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="IMG_20190619_154346.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="IMG_20190619_154340.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="IMG_20190619_154338.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="IMG_20190619_153942.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
