@@ -63,9 +63,10 @@ body {
 </head>
 <body>
 
-<div style="text-align:center">
+<div style="text-align:center"><font style="font-family:courier;" >
   <h2>Gallery</h2>
   <p>Click the image to expand.</p>
+  </font> 
 </div>
 
 <!-- The four columns -->
