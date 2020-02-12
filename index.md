@@ -8,19 +8,4 @@
 </body>
 </html>
 
-<div>
-<p>  
-  
-  [https://github.com/omkarbhoite25/Doc/raw/master/r.md](#Rsearch)
-  
-<a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf">CV</a> &emsp; 
-<a name="Research"></a>&emsp; 
-  <a href="https://github.com/omkarbhoite25/Doc/raw/master/p.md">Publications</a>&emsp; 
-  <a href="https://github.com/omkarbhoite25/Doc/raw/master/pro.md">Projects & Seminars</a>&emsp; 
-  <a href="https://twitter.com/Omkar64737805">Twitter</a>&emsp; 
-  <a href="https://github.com/omkarbhoite25">Github</a>&emsp; 
-  <a href="https://youtu.be/Oq8lbSNIXA">Youtube Channel</a>&emsp; 
-  <a href="https://github.com/omkarbhoite25/Doc/raw/master/g.md">Gallery</a>
-
-</p>
-</div> 
+|[CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) |[Research](r.md)|[Publications](p.md)|[Projects & Seminars](pro.md)|[Twitter](https://twitter.com/Omkar64737805)|[Github](https://github.com/omkarbhoite25)|[Youtube Channel](https://youtu.be/Oq8lbSNIXAg)|[Gallery](g.md)|
