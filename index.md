@@ -8,6 +8,10 @@
 </body>
 </html>
 
-
+<div>
+<p>  
+  
 ### &emsp; [CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) &emsp; [Research](r.md) &emsp; [Publications](p.md)&emsp; [Projects & Seminars](pro.md)&emsp; [Twitter](https://twitter.com/Omkar64737805)&emsp; [Github](https://github.com/omkarbhoite25) &emsp; [Youtube Channel](https://youtu.be/Oq8lbSNIXAg)&emsp;[Gallery](g.md)
 
+</p>
+</div> 
