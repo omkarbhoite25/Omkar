@@ -70,36 +70,26 @@ body {
 
 <!-- The four columns -->
 <div class="row">
-  <div class="column">
-    <img src="Space.jpeg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
+  
   <div class="column">
     <img src="IMG_20190619_144859.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
   </div>
-  <div class="column">
-    <img src="IMG_20190619_154401.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
-  </div>
+  
   <div class="column">
     <img src="IMG_20190619_154417.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
   </div>
-   <div class="column">
-    <img src="IMG_20190619_154350.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
+   
   <div class="column">
     <img src="IMG_20190619_174217.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
   </div>
-  <div class="column">
-    <img src="IMG_20190619_154346.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
+  
   <div class="column">
     <img src="IMG_20190619_154340.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
     <img src="IMG_20190619_154338.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
   </div>
-  <div class="column">
-    <img src="IMG_20190619_153942.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
+  
 </div>
 
 <div class="container">
