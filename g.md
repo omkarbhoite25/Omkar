@@ -44,8 +44,8 @@ body {
 /* Expanding image text */
 #imgtext {
   position: absolute;
-  bottom: 10px;
-  left: 10px;
+  bottom: 8px;
+  left: 8px;
   color: white;
   font-size: 20px;
 }
