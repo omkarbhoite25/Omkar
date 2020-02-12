@@ -10,8 +10,13 @@
 
 <div>
 <p>  
-  
-### &emsp; [CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) &emsp; [Research](r.md) &emsp; [Publications](p.md)&emsp; [Projects & Seminars](pro.md)&emsp; [Twitter](https://twitter.com/Omkar64737805)&emsp; [Github](https://github.com/omkarbhoite25) &emsp; [Youtube Channel](https://youtu.be/Oq8lbSNIXAg)&emsp;[Gallery](g.md)
-
+<a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf">CV</a> &emsp; 
+<a href="https://github.com/omkarbhoite25/Doc/raw/master/r.md">Reserach</a>&emsp; 
+  <a href="https://github.com/omkarbhoite25/Doc/raw/master/p.mdf">Publications</a>&emsp; 
+  <a href="https://github.com/omkarbhoite25/Doc/raw/master/pro.md">Projects & Seminars</a>&emsp; 
+  <a href="https://twitter.com/Omkar64737805">Twitter</a>&emsp; 
+  <a href="https://github.com/omkarbhoite25">Github</a>&emsp; 
+  <a href="https://youtu.be/Oq8lbSNIXA">Youtube Channel</a>&emsp; 
+  <a href="https://github.com/omkarbhoite25/Doc/raw/master/g.md">Gallery</a>
 </p>
 </div> 
