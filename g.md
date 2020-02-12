@@ -72,28 +72,26 @@ body {
 <div class="row">
   
   <div class="column">
-    <img src="IMG_20190619_144859.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
+    <img src="IMG_20190619_144859.jpg" alt="Lord Krishna Temple" style="width:100%" onclick="myFunction(this);">
   </div>
   
   <div class="column">
-    <img src="IMG_20190619_154417.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+    <img src="IMG_20190619_154417.jpg" alt="Valley" style="width:100%" onclick="myFunction(this);">
   </div>
    
-  <div class="column">
-    <img src="IMG_20190619_174217.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+   <div class="column">
+    <img src="IMG_20190619_154338.jpg" alt="Village" style="width:100%" onclick="myFunction(this);">
   </div>
   
   <div class="column">
-    <img src="IMG_20190619_154340.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+    <img src="IMG_20190619_154340.jpg" alt="Valley" style="width:100%" onclick="myFunction(this);">
   </div>
   
   
 </div>
-<div class="row">
-  <div class="column">
-    <img src="IMG_20190619_154338.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
-</div>
+
+ 
+
 
 <div class="container">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
