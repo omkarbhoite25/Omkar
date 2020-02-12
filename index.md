@@ -11,7 +11,7 @@
 <div>
 <p>  
 <a href="https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf">CV</a> &emsp; 
-<a href="https://github.com/omkarbhoite25/Doc/raw/master/r.md">Reserach</a>&emsp; 
+<a herf="https://github.com/omkarbhoite25/Doc/raw/master/r.md">Reserach</a>&emsp; 
   <a href="https://github.com/omkarbhoite25/Doc/raw/master/p.mdf">Publications</a>&emsp; 
   <a href="https://github.com/omkarbhoite25/Doc/raw/master/pro.md">Projects & Seminars</a>&emsp; 
   <a href="https://twitter.com/Omkar64737805">Twitter</a>&emsp; 
