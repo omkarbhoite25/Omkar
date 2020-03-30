@@ -4,7 +4,7 @@
 
 # Started with TensorFlow.
 ## Steps to install _TensorFlow_:
-### 1. Install <font color="green">_Python_</font> (In my case it's a <font color="green">_Windows_</font> Laptop) 
+### 1. Install <font color="green"> _Python_ </font> (In my case it's a <font color="green">_Windows_</font> Laptop) 
 ### 2. Open Command Prompt (<font color="green">_Windows Key + R_ </font>and than type <font color="green">_cmd_</font> or you can use other ways too.)
 ### 3. Check for <font color="green">_pip_</font></font> and its version too (Usually the latest version of the python has inbuilt pip; if not install and upgrade it.)
 ### 4. Install <font color="green">_TensorFlow_</font> using pip. (use pip command <font color="green">_pip install tensorflow_</font> to instal TensorFlow).
