@@ -1,4 +1,4 @@
-# Book
+# Books
 ### [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by _Michael Nielsen_
 #### <font color="red">Review: The book gives good insights in to the basics of the neural nework and deep learning, it's a very well structured book representing the detail intuitions into the basic of neural network form backpropogation, cost functions, weight initiallization etc. It also provides good understaning of machine learning & neural network along with a detailed mathematical analysis. </font>
 
@@ -12,7 +12,7 @@
 ### 5. Wait till all the files are downloaded and the TensorFlow gets installed.
 ### 6. Check whether the TensorFlow has been installed properly by using <font color="green"><em>import tensorflow</em></font> command and lok if no error occur.
 
-# Errors installing the _Tenorflow_.
+# Errors installing the _TensorFlow_.
 
 ### In my case the error was <font color="green"><em>ImportError: DLL load failed: The specified module could not be found.</em></font>; the solution to this was to downgrade TensorFlow to version 2.0.0 using command <font color="green"><em>pip install tensorflow==2.0.0</em></font> 
 
