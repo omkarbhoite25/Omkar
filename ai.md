@@ -10,7 +10,7 @@
 ### 3. Check for <font color="green"><em>pip</em></font> and its version too (Usually the latest version of the python has inbuilt pip; if not install and upgrade it.)
 ### 4. Install <font color="green"><em>TensorFlow</em></font> using pip. (use pip command <font color="green"><em>pip install tensorflow</em></font> to instal TensorFlow).
 ### 5. Wait till all the files are downloaded and the TensorFlow gets installed.
-### 6. Check whether the TensorFlow has been installed properly by using <font color="green"><em>import tensorflow</em></font> command and lok if no error occur.
+### 6. Check whether the TensorFlow has been installed properly by using <font color="green"><em>import tensorflow</em></font> command and look if no error occur.
 
 # Errors installing the _TensorFlow_.
 
