@@ -5,7 +5,7 @@
 #### <font color='red'>Review: Reading..............................</font>
 
 
-# TensorFlow.
+# <font color='orange'>TensorFlow.</font>
 ## Steps to install _TensorFlow_:
 ### 1. Install <font color="green"><em> Python </em></font> (In my case it's a <font color="green"><em>Windows</em></font> Laptop) 
 ### 2. Open Command Prompt (<font color="green"><em>Windows Key + R</em> </font>and than type <font color="green"><em>cmd</em></font> or you can use other ways too.)
@@ -14,7 +14,7 @@
 ### 5. Wait till all the files are downloaded and the TensorFlow gets installed.
 ### 6. Check whether the TensorFlow has been installed properly by using <font color="green"><em>import tensorflow</em></font> command and look if no error occur.
 
-# Errors installing the _TensorFlow_.
+# <font color='orange'>Errors installing the _TensorFlow_.</font>
 
 ### In my case the error was <font color="green"><em>ImportError: DLL load failed: The specified module could not be found.</em></font>; the solution to this was to downgrade TensorFlow to version 2.0.0 using command <font color="green"><em>pip install tensorflow==2.0.0</em></font> 
 
