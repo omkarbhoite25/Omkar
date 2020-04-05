@@ -18,4 +18,4 @@
 
 ### In my case the error was <font color="green"><em>ImportError: DLL load failed: The specified module could not be found.</em></font>; the solution to this was to downgrade TensorFlow to version 2.0.0 using command <font color="green"><em>pip install tensorflow==2.0.0</em></font> 
 
-# <font color='orange'> Always be carful with indentation because if the suite's gets mixed up it will result into randon output from the program !!!!!!! </font>
+# <font color='orange'> Always be carful with indentation because if the suite's gets mixed up it will result into a errorneous output from the program !!!!!!! </font>
