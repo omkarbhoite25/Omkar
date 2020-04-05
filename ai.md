@@ -5,7 +5,7 @@
 #### <font color='red'>Review: Reading..............................</font>
 
 
-# Started with TensorFlow.
+# TensorFlow.
 ## Steps to install _TensorFlow_:
 ### 1. Install <font color="green"><em> Python </em></font> (In my case it's a <font color="green"><em>Windows</em></font> Laptop) 
 ### 2. Open Command Prompt (<font color="green"><em>Windows Key + R</em> </font>and than type <font color="green"><em>cmd</em></font> or you can use other ways too.)
