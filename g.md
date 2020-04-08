@@ -96,7 +96,7 @@ body {
   </div>  
   
   <div class="column" >
-    <img src="The Sky.jpg" alt="The Inverted Sky" style="width:100%" onclick="myFunction(this);">
+    <img src="The Sky.jpg" alt="The Sky" style="width:100%" onclick="myFunction(this);">
   </div>
   
 </div>
