@@ -3,7 +3,7 @@
 <body>
   <font size="50" style="font-family:courier;" >Hi !!!  </font> 
  <br>
-<font size="3" style="font-family:Comic Sans MS;" > I'm Omkar Bhoite currently a grad student at KTH Royal Institute of Technology in Autonomous Systems (Robotics & AI). Undergrad in Instrumentation & Control Engineering from Pune University.  Former researcher at IISER, Pune and was guided/advised by Dr. Datta Shouvik.</font> <br>
+<font size="3" style="font-family:Comic Sans MS;" > I'm Omkar Bhoite currently a grad student in Autonomous Systems (Robotics & AI) at KTH Royal Institute of Technology, Sweden . Completed my undergrad in Instrumentation & Control Engineering from Pune University.  Former researcher at IISER (Indian Institute of Science, Education & Research), Pune and was guided/advised by Dr. Datta Shouvik.</font> <br>
 <font size="3" style="font-family:Comic Sans MS;" > Let's take a dive into my world of Engineering and Science.</font> <br> <br>
 </body>
 </html>
