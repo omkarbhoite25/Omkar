@@ -1,9 +1,6 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<div max-width: 768px;
-  max-height: 1024px;
-  margin: auto;
-  display: block;></div>
+ <div size="100%" style="background-image: url('img_girl.jpg');">  
 
 <body>
   <font size="50" style="font-family:Montserrat;" >Hi !!!  </font> 
