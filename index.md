@@ -1,6 +1,11 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
+   <style>
+div {
+  background-image: url('IMG_20190619_144859.jpg');
+}
+</style> 
   <font size="50" style="font-family:Montserrat;" >Hi !!!  </font> 
  <br>
 <font size="3" style="font-family:Montserrat;" > I'm Omkar Bhoite currently a grad student in Autonomous Systems (Robotics & AI) at KTH Royal Institute of Technology, Sweden. Completed my undergrad in Instrumentation & Control Engineering from Pune University.  Former researcher at IISER (Indian Institute of Science, Education & Research), Pune and was guided/advised by Dr. Datta Shouvik.</font> <br><br>
