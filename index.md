@@ -1,6 +1,10 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<div id="wrapper"></div>
+<div max-width: 768px;
+  max-height: 1024px;
+  margin: auto;
+  display: block;></div>
+
 <body>
   <font size="50" style="font-family:Montserrat;" >Hi !!!  </font> 
  <br>
