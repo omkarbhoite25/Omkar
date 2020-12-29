@@ -1,6 +1,6 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
- <div style="background-image: url('IMG_20190619_144859.jpg');">  
+ <div style="background-image: url('IMG_20190619_144859.jpg' style="width:100%");">  
 
 <body>
   <font size="50" style="font-family:Montserrat;" >Hi !!!  </font> 
