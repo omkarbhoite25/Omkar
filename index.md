@@ -2,9 +2,9 @@
 <body>
   <font size="50" style="font-family:Montserrat;" >Hi !!!  </font> 
  <br>
-<font size="3" style="font-family:Montserrat;" > I'm Omkar Bhoite, currently a grad student in Autonomous Systems (Robotics & AI) at KTH Royal Institute of Technology, Sweden. Completed my undergrad in Instrumentation & Control Engineering from Pune University.  Former researcher at IISER (Indian Institute of Science, Education & Research), Pune and was guided/advised by Dr. Datta Shouvik.</font> <br><br>
+<font size="3" style="font-family:Montserrat;" > I'm Omkar Bhoite, currently a grad student in Autonomous Systems (Robotics & AI) at KTH Royal Institute of Technology, Sweden & exchange student at Eötvös Loránd University, Budapest. Completed my undergrad in Instrumentation & Control Engineering from Pune University.  Former researcher at IISER (Indian Institute of Science, Education & Research), Pune and was guided/advised by Dr. Datta Shouvik.</font> <br><br>
  <font size="5" style="font-family:Montserrat;" > Updates </font> 
-  <font size="3" style="font-family:Montserrat;" ><br># Research Student at Non-Linear Quantum Photonics Lab (Applied Physics Department) | Apr 2021 – Present <br>
+  <font size="3" style="font-family:Montserrat;" ><br># Research Student at Non-Linear Quantum Photonics Lab (Applied Physics Department) | Apr 2021 – Aug 2021 <br>
     # Research Student at NeuroComputing Systems Lab (EECS) | Feb 2021 – July 2021 </font> <br> <br>
   
   
