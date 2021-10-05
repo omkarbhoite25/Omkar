@@ -7,3 +7,14 @@
 ## [_BUILDING GIGAHERTZ TRANSIMPEDANCE AMPLIFIER FOR LOW TEMPERATURE RF AMPLIFICATION AND SHOT NOISE MEASUREMENT._](https://github.com/omkarbhoite25/Doc/raw/master/Research%20Report-2.pdf)  [Click on the title to view the PDF]
  <font style="font-family:Comic Sans MS;" color="Black">  Developed a technique to build a miniature size printed circuit board for implementing the TIA circuit and also studied how to troubleshoot the problems like EMI, parasitic capacitance etc.., that hamper's the operation of the amplifier for measuring the signal in RF region and also signal amplification. Analyzed commercially available TIA to see whether it meets the specification specified by the manufacturer. </font>
 ##### _Indian Institute of Science Education and Research (IISER),Pune, Maharashtra, India._ <br/> **Guide & Adviser** : [_Dr. Datta Shouvik_](http://www.iiserpune.ac.in/people/faculty-details/19)
+
+## [Motor Dynamics for robotic head](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems) & [Event Based Camera](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems-Event-Based-Camera-eDVS4337)
+<font style="font-family:Comic Sans MS;" color="Black">Working on robotic head motor dynamics and to control it using the ROS topics and services, interfacing event based camera’s (edvs4337) with ROS for data("events") streaming. </font>
+##### _Neuro-Computing Systems Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : Prof. Jorg Conradt & Juan Pablo Romero Bermudez
+
+## Software to automate lab equipments
+<font style="font-family:Comic Sans MS;" color="Black">Working
+with single and dual channel optical meters, high power tunable lasers, optical spectrum analyzer,
+remote temperature controller, [E1100] Three-channel High Voltage Amplifier for driving low voltage
+piezos, 4-channel time to digital converter. </font>
+##### _Non-Linear Quantum Photonics Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : Prof. Katia Gallo & Halvor Fergestad
