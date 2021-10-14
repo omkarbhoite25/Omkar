@@ -9,7 +9,7 @@
 </video>
 
 
-- ## [_Evaluation of Effective Sensor Positioning in Autonomous Vehicles via Simulation._](https://github.com/omkarbhoite25/Doc/blob/master/COMPSAC_2021_paper_151.pdf) [2020-2021]
+- ## [_Evaluation of Effective Sensor Positioning in Autonomous Vehicles via Simulation._](https://github.com/omkarbhoite25/Doc/raw/master/COMPSAC_2021_paper_151.pdf) [2020-2021]
 
 - ## [_Automated testing equipment for an switch mode power supply (SMPS) & its analysis and 	data acquisition using LabVIEW._](https://github.com/omkarbhoite25/Doc/raw/master/Testing%20Equipment%20%20.pdf)
 
