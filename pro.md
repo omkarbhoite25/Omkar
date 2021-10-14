@@ -8,7 +8,6 @@
 <video src="https://user-images.githubusercontent.com/45728542/137372657-49df97c2-aff1-4aa4-8793-528c7754069d.MOV" controls="controls" style="max-width: 1080px;">
 </video>
 
-##
 
 - ## [_Evaluation of Effective Sensor Positioning in Autonomous Vehicles via Simulation._](https://github.com/omkarbhoite25/Doc/blob/master/COMPSAC_2021_paper_151.pdf) [2020-2021]
 
