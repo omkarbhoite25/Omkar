@@ -2,6 +2,16 @@
   </body>
 
 # PROJECTS
+
+ 
+### Designed and developed a ML algorithm to perform autonomous driving on a model car, 1/10th  a size of an actual car. The following video gives a gist of the functionalities performed by the car in GAZEBO environment. (Bosch Mobility 2020 Semifinalist) [2020-2021] Voice: [Alberto](https://github.com/albertoxamin)
+<video src="https://user-images.githubusercontent.com/45728542/137372657-49df97c2-aff1-4aa4-8793-528c7754069d.MOV" controls="controls" style="max-width: 1080px;">
+</video>
+
+##
+
+## [_Evaluation of Effectivee Sensor Positioning in Autonomous Vehicles via Simulation._](https://github.com/omkarbhoite25/Doc/blob/master/COMPSAC_2021_paper_151.pdf) [2020-2021]
+
 ## [_Automated testing equipment for an switch mode power supply (SMPS) & its analysis and 	data acquisition using LabVIEW._](https://github.com/omkarbhoite25/Doc/raw/master/Testing%20Equipment%20%20.pdf)
 
 ## _Quadcopter Designing and study of YPR parameters of drone and it's implementation to have a controlled positioning of the drone in 3-D Space.<sup>*</sup>_
