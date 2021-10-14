@@ -17,7 +17,7 @@
 
 - ## _Object counter circuit using IC 4026 CMOS Decade Counter/ Divider.<sup>*</sup>_
 
-- ## _Designing of regulated power supply using IC 7805 \& IC 7905.<sup>*</sup>_
+- ## _Designing of regulated power supply using IC 7805 & IC 7905.<sup>*</sup>_
 
 # SEMINARS
 
