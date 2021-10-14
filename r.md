@@ -5,7 +5,7 @@
 
 ## [MOTOR DYNAMICS FOR ROBOTIC HEAD](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems) & [DATA STREAMING FROM EVENT BASED CAMERA USING ROS](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems-Event-Based-Camera-eDVS4337) (Febraury 2021 - June 2021)
 <font style="font-family: Montserrat;" color="Black">Worked on robotic head motor dynamics and to control it using the ROS topics & services, and interfacing of event based camera’s (edvs4337) with ROS for data("events") streaming. </font><br/>
-<video src="https://user-images.githubusercontent.com/45728542/137381243-31c1b0cd-b663-4339-bf18-f609af84a99a.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/45728542/137381243-31c1b0cd-b663-4339-bf18-f609af84a99a.mp4" controls="muted" style="max-width: 730px;">
 </video>
 
 
