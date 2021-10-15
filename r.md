@@ -9,14 +9,14 @@
 </video>
 
 
-##### _Neuro-Computing Systems Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : Prof. Jorg Conradt & Juan Pablo Romero Bermudez
+##### _Neuro-Computing Systems Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : [Prof. Jorg Conradt](https://www.kth.se/profile/conr) & [Juan Pablo Romero Bermudez](https://www.kth.se/profile/jprb?l=en)
 
 ## SOFTWARE TO AUTOMATE LAB EQUIPMENTS (April 2021 - August 2021)
 <font style="font-family:Comic Sans MS;" color="Black">Built a software to automate lab equipments, Worked
 with single and dual channel optical meters, high power tunable lasers, optical spectrum analyzer,
 remote temperature controller, [E1100] Three-channel High Voltage Amplifier for driving low voltage
 piezos, 4-channel time to digital converter. </font>
-##### _Non-Linear Quantum Photonics Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : Prof. Katia Gallo & Halvor Fergestad
+##### _Non-Linear Quantum Photonics Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : [Prof. Katia Gallo](https://www.kth.se/profile/gallo) & [Halvor Fergestad](https://www.kth.se/profile/halvorf)
 
 
 
