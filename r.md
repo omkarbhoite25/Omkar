@@ -4,15 +4,19 @@
 
 
 ## [MOTOR DYNAMICS FOR ROBOTIC HEAD](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems) & [DATA STREAMING FROM EVENT BASED CAMERA USING ROS](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems-Event-Based-Camera-eDVS4337) (Febraury 2021 - June 2021)
-<font style="font-family:Comic Sans MS;" color="Black">Working on robotic head motor dynamics and to control it using the ROS topics and services, interfacing event based camera’s (edvs4337) with ROS for data("events") streaming. </font>
-##### _Neuro-Computing Systems Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : Prof. Jorg Conradt & Juan Pablo Romero Bermudez
+<font style="font-family: Montserrat;" color="Black">Worked on robotic head motor dynamics and to control it using the ROS topics & services, and interfacing of event based camera’s (edvs4337) with ROS for data("events") streaming. </font><br/>
+<video src="https://user-images.githubusercontent.com/45728542/137381243-31c1b0cd-b663-4339-bf18-f609af84a99a.mp4" controls="muted" style="max-width: 730px;">
+</video>
+
+
+##### _Neuro-Computing Systems Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : [Prof. Jorg Conradt](https://www.kth.se/profile/conr) & [Juan Pablo Romero Bermudez](https://www.kth.se/profile/jprb?l=en)
 
 ## SOFTWARE TO AUTOMATE LAB EQUIPMENTS (April 2021 - August 2021)
-<font style="font-family:Comic Sans MS;" color="Black">Working
+<font style="font-family:Comic Sans MS;" color="Black">Built a software to automate lab equipments, Worked
 with single and dual channel optical meters, high power tunable lasers, optical spectrum analyzer,
 remote temperature controller, [E1100] Three-channel High Voltage Amplifier for driving low voltage
 piezos, 4-channel time to digital converter. </font>
-##### _Non-Linear Quantum Photonics Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : Prof. Katia Gallo & Halvor Fergestad
+##### _Non-Linear Quantum Photonics Lab, KTH Royal Institute of Technology_<br/>**Guide & Adviser** : [Prof. Katia Gallo](https://www.kth.se/profile/gallo) & [Halvor Fergestad](https://www.kth.se/profile/halvorf)
 
 
 
