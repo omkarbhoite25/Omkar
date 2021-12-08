@@ -4,7 +4,7 @@
 # PROJECTS
 
 
-- ## [_Designed and developed a ML algorithm to perform autonomous driving on a model car, 1/10th  a size of an actual car. The following video gives a gist of the functionalities performed by the car in GAZEBO environment._](https://github.com/omkarbhoite25/BFMC) (Bosch Mobility 2020 Semifinalist) [2020-2021] [Video voice: [Alberto Xamin](https://www.linkedin.com/in/albertoxamin/)]
+- ## [_Designed and developed a ML algorithm to perform autonomous driving on a model car, 1/10th  a size of an actual car. The following video gives a gist of the functionalities performed by the car in GAZEBO environment._](https://github.com/omkarbhoite25/BFMC) (Bosch Mobility 2020 Semifinalist Team members: Omkar, Shounak, Alberto, Adithya, Vignesh) [2020-2021] Video voice by: Alberto Xamin
 <video src="https://user-images.githubusercontent.com/45728542/137372657-49df97c2-aff1-4aa4-8793-528c7754069d.MOV" controls="controls" style="max-width: 1080px;">
 </video>
 
