@@ -4,8 +4,8 @@
  <br>
 <font size="3" style="font-family:Montserrat;" > I'm Omkar Bhoite, grad student in Autonomous Systems (Robotics & AI) at KTH Royal Institute of Technology, Sweden & exchange student at Eötvös Loránd University, Budapest. Completed my undergrad in Instrumentation & Control Engineering from Pune University.  Former researcher at IISER (Indian Institute of Science, Education & Research), Pune and was guided/advised by Dr. Datta Shouvik.</font> <br><br>
  <font size="5" style="font-family:Montserrat;" > Updates </font> 
-  <font size="3" style="font-family:Montserrat;" ><br>&nbsp; &nbsp; &nbsp; &nbsp; # Research Student at Non-Linear Quantum Photonics Lab (Applied Physics Department) | Apr 2021 – Aug 2021 <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; # Research Student at NeuroComputing Systems Lab (EECS) | Feb 2021 – July 2021 </font> <br> <br>
+  <font size="3" style="font-family:Montserrat;" ><br>&nbsp; &nbsp; &nbsp; # Research Student at Non-Linear Quantum Photonics Lab (Applied Physics Department) | Apr 2021 – Aug 2021 <br>
+    &nbsp; &nbsp; &nbsp; # Research Student at NeuroComputing Systems Lab (EECS) | Feb 2021 – July 2021 </font> <br> <br>
 
 </body>
 </html>
@@ -15,7 +15,7 @@
    <details>
      <summary><font size="5" style="font-family:Montserrat;" > Courses taken at KTH Royal Insitute of Technology, Sweden </font>  (Click to expand)</summary>
       <font size="3" style="font-family:Montserrat;" ><br>&nbsp; &nbsp; &nbsp; &nbsp; # Machine Learning <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; # Artificial Intelligence <br> &nbsp; &nbsp; &nbsp; &nbsp; # Introduction to Robotics <br> &nbsp; &nbsp; &nbsp; &nbsp; # Entrepreneurship for Engineers <br> &nbsp; &nbsp; &nbsp; &nbsp; # Distributed Aritificial Intelligence and Intelligent Agents <br> &nbsp; &nbsp; &nbsp; &nbsp; # Research Methodology and Scientific Writing <br> &nbsp; &nbsp; &nbsp; &nbsp; # Business Development Lab <br> &nbsp; &nbsp; &nbsp; &nbsp; # Technology-based Entrepreneurship <br> &nbsp; &nbsp; &nbsp; &nbsp; # Summer School - Introduction to Internet of Things </font>
+    &nbsp; &nbsp; &nbsp; &nbsp; # Artificial Intelligence <br> &nbsp; &nbsp; &nbsp; &nbsp; # Introduction to Robotics <br> &nbsp; &nbsp; &nbsp; &nbsp; # Entrepreneurship for Engineers <br> &nbsp; &nbsp; &nbsp; &nbsp; # Distributed Aritificial Intelligence and Intelligent Agents <br> &nbsp; &nbsp; &nbsp; &nbsp; # Research Methodology and Scientific Writing <br> &nbsp; &nbsp; &nbsp; &nbsp; # Business Development Lab <br> &nbsp; &nbsp; &nbsp; &nbsp; # Technology-based Entrepreneurship <br> &nbsp; &nbsp; &nbsp; &nbsp; # Summer School - Introduction to Internet of Things </font><br>
     </details>
     <details>
       <summary><font size="5" style="font-family:Montserrat;" > Courses currently studying at ELTE, Budapest </font> (Click to expand)</summary>
