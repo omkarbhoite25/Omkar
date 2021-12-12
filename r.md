@@ -1,10 +1,11 @@
 <body style="background-color:Chartreuse;"> 
-  </body>
+ 
 
 
 
 ## [MOTOR DYNAMICS FOR ROBOTIC HEAD](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems) & [DATA STREAMING FROM EVENT BASED CAMERA USING ROS](https://github.com/omkarbhoite25/KTH-Neuro-Computing-Systems-Event-Based-Camera-eDVS4337) (Febraury 2021 - June 2021)
-<font style="font-family: Montserrat;" color="Black">Worked on robotic head motor dynamics and to control it using the ROS topics & services, and interfacing of event based camera’s (edvs4337) with ROS for data("events") streaming. </font><br/><p align="center"><video src="https://user-images.githubusercontent.com/45728542/137381243-31c1b0cd-b663-4339-bf18-f609af84a99a.mp4" controls="muted" style="max-width: 730px;"></video></p>
+<font style="font-family: Montserrat;" color="Black">Worked on robotic head motor dynamics and to control it using the ROS topics & services, and interfacing of event based camera’s (edvs4337) with ROS for data("events") streaming. </font><br/>
+<p align="center"><video src="https://user-images.githubusercontent.com/45728542/137381243-31c1b0cd-b663-4339-bf18-f609af84a99a.mp4" controls="muted" style="max-width: 730px;"></video></p>
 
 
 
@@ -26,4 +27,5 @@ piezos, 4-channel time to digital converter. </font>
  <font style="font-family:Comic Sans MS;" color="Black">  Developed a technique to build a miniature size printed circuit board for implementing the TIA circuit and also studied how to troubleshoot the problems like EMI, parasitic capacitance etc.., that hamper's the operation of the amplifier for measuring the signal in RF region and also signal amplification. Analyzed commercially available TIA to see whether it meets the specification specified by the manufacturer. </font>
 ##### _Indian Institute of Science Education and Research (IISER),Pune, Maharashtra, India._ <br/> **Guide & Adviser** : [_Dr. Datta Shouvik_](http://www.iiserpune.ac.in/people/faculty-details/19)
 
+</body>
 
