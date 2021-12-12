@@ -1,5 +1,6 @@
 <body style="background-color:Chartreuse;"> 
  
+</body>
 
 
 
@@ -27,5 +28,5 @@ piezos, 4-channel time to digital converter. </font>
  <font style="font-family:Comic Sans MS;" color="Black">  Developed a technique to build a miniature size printed circuit board for implementing the TIA circuit and also studied how to troubleshoot the problems like EMI, parasitic capacitance etc.., that hamper's the operation of the amplifier for measuring the signal in RF region and also signal amplification. Analyzed commercially available TIA to see whether it meets the specification specified by the manufacturer. </font>
 ##### _Indian Institute of Science Education and Research (IISER),Pune, Maharashtra, India._ <br/> **Guide & Adviser** : [_Dr. Datta Shouvik_](http://www.iiserpune.ac.in/people/faculty-details/19)
 
-</body>
+
 
