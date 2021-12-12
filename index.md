@@ -15,7 +15,7 @@
    <details>
      <summary><font size="5" style="font-family:Montserrat;" > Courses taken at KTH Royal Insitute of Technology, Sweden </font>  (Click to expand)</summary>
       <font size="3" style="font-family:Montserrat;" ><br>&nbsp; &nbsp; &nbsp; &nbsp; # Machine Learning <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; # Artificial Intelligence <br> &nbsp; &nbsp; &nbsp; &nbsp; # Introduction to Robotics <br> &nbsp; &nbsp; &nbsp; &nbsp; # Entrepreneurship for Engineers <br> &nbsp; &nbsp; &nbsp; &nbsp; # Distributed Aritificial Intelligence and Intelligent Agents <br> &nbsp; &nbsp; &nbsp; &nbsp; # Research Methodology and Scientific Writing <br> &nbsp; &nbsp; &nbsp; &nbsp; # Business Development Lab <br> &nbsp; &nbsp; &nbsp; &nbsp; # Technology-based Entrepreneurship <br> &nbsp; &nbsp; &nbsp; &nbsp; # Summer School - Introduction to Internet of Things </font><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; # Artificial Intelligence <br> &nbsp; &nbsp; &nbsp; &nbsp; # Introduction to Robotics <br> &nbsp; &nbsp; &nbsp; &nbsp; # Entrepreneurship for Engineers <br> &nbsp; &nbsp; &nbsp; &nbsp; # Distributed Aritificial Intelligence and Intelligent Agents <br> &nbsp; &nbsp; &nbsp; &nbsp; # Research Methodology and Scientific Writing <br> &nbsp; &nbsp; &nbsp; &nbsp; # Business Development Lab <br> &nbsp; &nbsp; &nbsp; &nbsp; # Technology-based Entrepreneurship <br> &nbsp; &nbsp; &nbsp; &nbsp; # Summer School - Introduction to Internet of Things </font><br><br>
     </details>
     <details>
       <summary><font size="5" style="font-family:Montserrat;" > Courses currently studying at ELTE, Budapest </font> (Click to expand)</summary>
