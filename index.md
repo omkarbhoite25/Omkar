@@ -11,9 +11,9 @@
 </html>
 <br>
 <details>
-      <summary>Studing !!! (Click to expand)</summary><br>
+      <summary><font size="5" style="font-family:Montserrat;" > Checkout what I am currently studying.</font> (Click to expand)</summary><br>
    <details>
-      <summary><font size="5" style="font-family:Montserrat;" > Courses taken at KTH Royal Insitute of Technology, Sweden </font>  (Click to expand)</summary>
+     <summary><font size="5" style="font-family:Montserrat;" > Courses taken at KTH Royal Insitute of Technology, Sweden </font>  (Click to expand)</summary>
       <font size="3" style="font-family:Montserrat;" ><br># Machine Learning <br>
     # Artificial Intelligence <br> # Introduction to Robotics <br> # Entrepreneurship for Engineers <br> # Distributed Aritificial Intelligence and Intelligent Agents <br> # Research Methodology and Scientific Writing <br> # Business Development Lab <br> # Technology-based Entrepreneurship <br> # Summer School - Introduction to Internet of Things </font>
     </details>
