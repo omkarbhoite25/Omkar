@@ -1,5 +1,5 @@
 <body style="background-color:white;"> 
-  
+  </body>
 
 # PROJECTS
 
@@ -24,4 +24,4 @@
 
 
 ### [ <sup>*</sup>  Documents will be uploaded soon]
-</body>
+
