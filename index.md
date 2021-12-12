@@ -27,6 +27,6 @@
 
 
 
-|[CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) |[Research](r.md)|[Publications](p.md)|[Projects & Seminars](pro.md)|[Twitter](https://twitter.com/Omkar64737805)|[Github](https://github.com/omkarbhoite25)|[Gallery](g.md)|[AI / Mahcine Learning / Deep Neural Network](ai.md)|
+|[CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) |[Research](r.md)|[Publications](p.md)|[Projects & Seminars ](pro.md)|[Twitter](https://twitter.com/Omkar64737805)|[Github](https://github.com/omkarbhoite25)|[Gallery](g.md)|[AI / Mahcine Learning / Deep Neural Network](ai.md)|
 
 
