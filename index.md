@@ -25,7 +25,6 @@
     </details>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="5" style="font-family:Montserrat;" > Let's take a dive into my world of Engineering and Science.</font> <br> <br>
 
 
 |[CV](https://github.com/omkarbhoite25/Doc/raw/master/Omkar_CV.pdf) |[Research](r.md)|[Publications](p.md)|[Projects & Seminars](pro.md)|[Twitter](https://twitter.com/Omkar64737805)|[Github](https://github.com/omkarbhoite25)|[Gallery](g.md)|[AI / Mahcine Learning / Deep Neural Network](ai.md)|
